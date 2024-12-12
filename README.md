@@ -1,9 +1,9 @@
-# Your Project's Title...
+# VRA Comm
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--vracomm--kohmen.aem.page/
+- Live: https://main--vracomm--kohmen.aem.live/
 
 ## Documentation
 
